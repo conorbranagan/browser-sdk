@@ -93,5 +93,8 @@
     "node": "20.12.2",
     "yarn": "1.22.22"
   },
-  "packageManager": "yarn@3.8.1"
+  "packageManager": "yarn@3.8.1",
+  "engines": {
+    "node": ">=20.12.2"
+  }
 }
